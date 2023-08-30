@@ -1,0 +1,14 @@
+argparse
+os
+re
+signal 
+time
+requests
+fake_useragent
+termcolor
+urllib
+concurrent
+whois
+python-whois
+json
+lxml
